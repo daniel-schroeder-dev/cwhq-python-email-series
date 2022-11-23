@@ -24,6 +24,5 @@ The `range()` function, when given a single argument (let's call it `n`) will pr
 
 ## Resources
 
-- [The CodeWizardsHQ Docs - `range()`](https://docs.codewizardshq.com/python/python-language/#range)
-- [The CodeWizardsHQ Docs - `for`](https://docs.codewizardshq.com/python/python-language/#for)
-
+-   [The CodeWizardsHQ Docs - `range()`](https://docs.codewizardshq.com/python/python-language/#range)
+-   [The CodeWizardsHQ Docs - `for`](https://docs.codewizardshq.com/python/python-language/#for)
