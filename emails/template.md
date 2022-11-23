@@ -1,6 +1,5 @@
 ## Question
 
-
 ```python
 
 ```
@@ -13,8 +12,6 @@
 
 ## Explanation
 
-
 ## Resources
 
-- []()
-
+-   []()
