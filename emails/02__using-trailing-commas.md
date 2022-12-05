@@ -47,7 +47,7 @@ Because the original `users` `list` didn't have a trailing comma, it was easy fo
 
 A better way to write a multi-line `list` would be:
 
-```text
+```python
 users = [
     "djs",
     "charlieg",
