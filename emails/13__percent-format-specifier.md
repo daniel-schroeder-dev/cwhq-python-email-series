@@ -36,7 +36,7 @@ print(f"With a ${bill_amount} bill and a {tip_percentage:.0%} tip, your total is
 
 ## Explanation
 
-You add format specifiers using the `:` character. The `.` is used to determine the number of digits after the decimal point in a `float`. The `%` multiplies the variable by 100 and adds the `%` sign. The `f` is used to ensure the number is given fixed-point notation. 
+You add format specifiers using the `:` character. The `.` is used to determine the number of digits after the decimal point in a `float`. The `%` multiplies the variable by 100 and adds the `%` sign. The `f` is used to ensure the number is given fixed-point notation. There are many other options besides the `.`, `%`, and `f`. Explore them the next time you need to format some text output. 
 
 ## Resources
 
