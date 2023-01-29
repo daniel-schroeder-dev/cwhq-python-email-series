@@ -40,3 +40,22 @@ Useful functions, modules, or techniques for debugging.
 Folks come to Python from lots of different backgrounds, so showing some code that is technically correct and then refactoring it to conform to a more Pythonic style could be fun.
 
 
+### Topic Ideas
+
+- Early `return` statements
+- Error handling with `try...except`
+- The walrus operator
+- Context managers (in the context of File I/O)
+- Converting between data types
+- Checking if a variable matches a data type 
+- Combining lists
+- Combining dicts
+- List comprehensions
+- Using `*args`
+- Using `**kwargs`
+- Using `enumerate()`
+- Creating a dictionary with `dict()`
+- Converting a `list` to a `str` with `str.join(list)`
+- Getting arguments passed to a program with `sys.argv`
+- Exiting a program with `sys.exit()`
+- Installing external libraries with `pip`
