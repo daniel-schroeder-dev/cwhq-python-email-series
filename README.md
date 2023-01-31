@@ -42,9 +42,6 @@ Folks come to Python from lots of different backgrounds, so showing some code th
 
 ### Topic Ideas
 
-- Early `return` statements
-- Error handling with `try...except`
-- The walrus operator
 - Context managers (in the context of File I/O)
 - Converting between data types
 - Checking if a variable matches a data type 
