@@ -21,7 +21,7 @@ Python's "walrus" operator was added to the language (in Python 3.8 and above) t
 
 ## Answer
 
-```text
+```python
 def sum_prices(prices):
     if (num_prices := len(prices)) < 2:
         print(f"You passed {num_prices} price(s) but must pass at least 2!")

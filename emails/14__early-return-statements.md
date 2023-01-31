@@ -17,7 +17,7 @@ Is there a way to still print both messages (error and success) but not use an `
 
 ## Answer
 
-```text
+```python
 def divide(numerator, denominator):
     if denominator == 0:
         print("The denominator must not be 0!")
