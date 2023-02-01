@@ -42,7 +42,6 @@ Folks come to Python from lots of different backgrounds, so showing some code th
 
 ### Topic Ideas
 
-- Combining lists
 - Combining dicts
 - List comprehensions
 - Using `*args`
@@ -53,3 +52,6 @@ Folks come to Python from lots of different backgrounds, so showing some code th
 - Getting arguments passed to a program with `sys.argv`
 - Exiting a program with `sys.exit()`
 - Installing external libraries with `pip`
+- Slicing operators (lists and dicts)
+- 2D lists
+
