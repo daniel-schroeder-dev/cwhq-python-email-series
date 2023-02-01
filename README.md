@@ -42,16 +42,12 @@ Folks come to Python from lots of different backgrounds, so showing some code th
 
 ### Topic Ideas
 
-- Combining dicts
 - List comprehensions
 - Using `*args`
 - Using `**kwargs`
-- Using `enumerate()`
 - Creating a dictionary with `dict()`
 - Converting a `list` to a `str` with `str.join(list)`
 - Getting arguments passed to a program with `sys.argv`
-- Exiting a program with `sys.exit()`
 - Installing external libraries with `pip`
-- Slicing operators (lists and dicts)
 - 2D lists
 
