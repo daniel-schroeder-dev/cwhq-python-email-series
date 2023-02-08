@@ -42,10 +42,7 @@ Folks come to Python from lots of different backgrounds, so showing some code th
 
 ### Topic Ideas
 
-- List comprehensions
-- Using `*args`
 - Using `**kwargs`
-- Creating a dictionary with `dict()`
 - Converting a `list` to a `str` with `str.join(list)`
 - Getting arguments passed to a program with `sys.argv`
 - Installing external libraries with `pip`
