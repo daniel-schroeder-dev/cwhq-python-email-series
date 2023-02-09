@@ -42,9 +42,6 @@ Folks come to Python from lots of different backgrounds, so showing some code th
 
 ### Topic Ideas
 
-- Using `**kwargs`
-- Converting a `list` to a `str` with `str.join(list)`
 - Getting arguments passed to a program with `sys.argv`
 - Installing external libraries with `pip`
-- 2D lists
 
