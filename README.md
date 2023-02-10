@@ -44,4 +44,10 @@ Folks come to Python from lots of different backgrounds, so showing some code th
 
 - Getting arguments passed to a program with `sys.argv`
 - Installing external libraries with `pip`
-
+- Rounding numbers with `round()`
+- Getting the absolute value with `abs()`
+- Reversing a list with `reversed()`
+- Using `min()` and `max()`
+- Replacing characters in a `str` with str.replace()
+- Using `Counter()`
+- Special Math constants (PI, e)
