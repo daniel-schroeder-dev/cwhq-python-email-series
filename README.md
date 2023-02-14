@@ -44,6 +44,10 @@ Folks come to Python from lots of different backgrounds, so showing some code th
 
 - Installing external libraries with `pip`
 - Rounding numbers with `round()`
-- Reversing a list with `reversed()`
-- Replacing characters in a `str` with str.replace()
 - Using `Counter()`
+- Shuffle algorithm (long way then show random.shuffle)
+- Using `//` to get floor division
+- OOP (several parts)
+- Maybe something about a simple regex?
+- Show a simple logging decorator?
+
