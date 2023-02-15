@@ -43,9 +43,6 @@ Folks come to Python from lots of different backgrounds, so showing some code th
 ### Topic Ideas
 
 - Installing external libraries with `pip`
-- Rounding numbers with `round()`
-- Using `Counter()`
-- Shuffle algorithm (long way then show random.shuffle)
 - Using `//` to get floor division
 - OOP (several parts)
 - Maybe something about a simple regex?
