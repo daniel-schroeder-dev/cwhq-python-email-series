@@ -47,7 +47,6 @@ Folks come to Python from lots of different backgrounds, so showing some code th
 - OOP (several parts)
 - Maybe something about a simple regex?
 - Show a simple logging decorator?
-- Using `ascii_lowercase`
 - Show how to use the `Fractions` class to help with Math homework
 - Some trig functions from the `math` class for trig homework
 
