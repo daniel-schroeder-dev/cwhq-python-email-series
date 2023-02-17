@@ -47,9 +47,7 @@ Folks come to Python from lots of different backgrounds, so showing some code th
 - OOP (several parts)
 - Maybe something about a simple regex?
 - Show a simple logging decorator?
-- Using `str.strip()`
 - Using `ascii_lowercase`
-- Some stuff from the `statistics` module (median, mean, mode)
 - Show how to use the `Fractions` class to help with Math homework
 - Some trig functions from the `math` class for trig homework
 
