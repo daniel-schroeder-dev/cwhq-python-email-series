@@ -1,6 +1,6 @@
 ## Question
 
-A young Pythonista is trying to sort a list of dictionaries containing items in a shopping cart by their `price` key from low to high. They see that Python has a built-in `sorted` function for this purpose, but they don't understand how to get it to work on a specific key in each dictionary of their `shopping_cart` list, as you can see from the example below:
+A young Python programmer is trying to sort a list of dictionaries containing items in a shopping cart by their `price` key from low to high. They see that Python has a built-in `sorted` function for this purpose, but they don't understand how to get it to work on a specific key in each dictionary of their `shopping_cart` list, as you can see from the example below:
 
 ```python
 shopping_cart = [

@@ -1,6 +1,6 @@
 ## Question
 
-A young Pythonista is working on a program that allows users to store contact information for their friends and family. They are using a dictionary to store the contact information for each user, and each user has a few common keys, such as:
+A young Python programmer is working on a program that allows users to store contact information for their friends and family. They are using a dictionary to store the contact information for each user, and each user has a few common keys, such as:
 
 - `full_name`
 - `phone_number`
@@ -85,7 +85,7 @@ for contact in contacts:
 
 ```
 
-This works as expected, but an older Pythonista happens to see their work and takes issue with this section:
+This works as expected, but an older Python programmer happens to see their work and takes issue with this section:
 
 ```python
 def display_contact_details(contact_information):
@@ -101,7 +101,7 @@ def display_contact_details(contact_information):
 
 ```
 
-The older Pythonista points out that there's no need for the conditional statements if you use the correct dictionary method to set the `email_address` and `home_address` variables. Investigate Python's [dict](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict) data structure and see if you can refactor the `display_contact_details()` function to use a dictionary method to assign the `email_address` and `home_address` values.
+The older Python programmer points out that there's no need for the conditional statements if you use the correct dictionary method to set the `email_address` and `home_address` variables. Investigate Python's [dict](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict) data structure and see if you can refactor the `display_contact_details()` function to use a dictionary method to assign the `email_address` and `home_address` values.
 
 
 ## Answer

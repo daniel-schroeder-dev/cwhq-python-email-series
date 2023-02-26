@@ -1,6 +1,6 @@
 ## Question
 
-A young Pythonista has written a bookmark manager program that allows them to quickly browse bookmarks and get the relevant URL to the webpage. They've created a function that allows a user to search for a bookmark by the `site_name` and then it displays the relevant `url` which they can then copy/paste into a web browser. Here are the basics of how the `bookmarks` look and how the `get_bookmark()` function works:
+A young Python programmer has written a bookmark manager program that allows them to quickly browse bookmarks and get the relevant URL to the webpage. They've created a function that allows a user to search for a bookmark by the `site_name` and then it displays the relevant `url` which they can then copy/paste into a web browser. Here are the basics of how the `bookmarks` look and how the `get_bookmark()` function works:
 
 ```python
 def get_bookmark(site_name):
@@ -31,7 +31,7 @@ get_bookmark("Real Python")  # Real Python's URL is: https://realpython.com
 get_bookmark("Fake Python")  # Bookmark not found for Fake Python!
 ```
 
-This program works as expected, but an experienced Pythonista sees their work and suggests a cleaner implementation using the [webbrowser](https://docs.python.org/3/library/webbrowser.html) module. Research this module and see if you can find a way to use it to make this program work better!
+This program works as expected, but an experienced Python programmer sees their work and suggests a cleaner implementation using the [webbrowser](https://docs.python.org/3/library/webbrowser.html) module. Research this module and see if you can find a way to use it to make this program work better!
 
 ## Answer
 

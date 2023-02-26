@@ -1,6 +1,6 @@
 ## Question
 
-A young Pythonista is working on a program to help them with their statistics homework. They've created two helper-functions to calculate the `mean()` and `median()` like so:
+A young Python programmer is working on a program to help them with their statistics homework. They've created two helper-functions to calculate the `mean()` and `median()` like so:
 
 ```python
 def mean(nums):
@@ -25,7 +25,7 @@ median_value =  median([1, 3, 5, 7])
 print(median_value)  # 4.0
 ```
 
-They are happy with their implementation, but a more experienced Pythonista tells them that these functions already exist in the [Python standard library](https://docs.python.org/3/library/index.html). Search through this library (CTRL+F makes this easier) to see if you can find the correct module where these functions may live. If you find the module, import the correct functions and refactor the program above to use them.
+They are happy with their implementation, but a more experienced Python programmer tells them that these functions already exist in the [Python standard library](https://docs.python.org/3/library/index.html). Search through this library (CTRL+F makes this easier) to see if you can find the correct module where these functions may live. If you find the module, import the correct functions and refactor the program above to use them.
 
 ## Answer
 

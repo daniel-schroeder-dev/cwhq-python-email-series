@@ -1,7 +1,7 @@
 ## Question
 
 
-A young Pythonista is making a program where a user has to form words using unique letters of the alphabet for each word (all lowercase letters). They get a point for each letter they use, and they can't use the same letter twice in one word or between words. To make sure the user is only pulling from the list of available words, the programmer has created a list of all the letters in the alphabet using this function: 
+A young Python programmer is making a program where a user has to form words using unique letters of the alphabet for each word (all lowercase letters). They get a point for each letter they use, and they can't use the same letter twice in one word or between words. To make sure the user is only pulling from the list of available words, the programmer has created a list of all the letters in the alphabet using this function: 
 
 
 ```python
@@ -22,7 +22,7 @@ def create_lowercase_letters():
 lowercase_letters = create_lowercase_letters()
 ```
 
-The young programmer is pleased with their algorithm, but a more experienced Pythonista comes along and gives them some advice. They suggest looking into the `string` module to see if there's a way to get all of the lowercase letters without having to build a function to do so. They also tell the young programmer that the `list()` built-in function will come in handy. Investigate the [string](https://docs.python.org/3/library/string.html) module and see if you can find a way to replace the `create_lowercase_letters()` function.
+The young programmer is pleased with their algorithm, but a more experienced Python programmer comes along and gives them some advice. They suggest looking into the `string` module to see if there's a way to get all of the lowercase letters without having to build a function to do so. They also tell the young programmer that the `list()` built-in function will come in handy. Investigate the [string](https://docs.python.org/3/library/string.html) module and see if you can find a way to replace the `create_lowercase_letters()` function.
 
 ## Answer
 

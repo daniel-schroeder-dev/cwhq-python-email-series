@@ -1,6 +1,6 @@
 ## Question
 
-A young Pythonista is working on a program that will implement the "Banker's Rounding" algorithm to round numbers in the form x.x to the nearest integer. The algorithm is as follows:
+A young Python programmer is working on a program that will implement the "Banker's Rounding" algorithm to round numbers in the form x.x to the nearest integer. The algorithm is as follows:
 
 ```text
 If the number is equidistant from the two nearest integers (i.e., ends in .5), round to the nearest even integer.
@@ -43,7 +43,7 @@ print(bankers_round(2.5))  # 2
 print(bankers_round(2.6))  # 3
 ```
 
-Their algorithm works perfectly! They show this to a more experienced Pythonista who shakes their head and says: "You did well, but Python has a built-in function that will perform this task for you!" Investigate the Python's [built-in functions](https://docs.python.org/3/library/functions.html) and see if you can find a way to replace `bankers_round()` with one of them!
+Their algorithm works perfectly! They show this to a more experienced Python programmer who shakes their head and says: "You did well, but Python has a built-in function that will perform this task for you!" Investigate the Python's [built-in functions](https://docs.python.org/3/library/functions.html) and see if you can find a way to replace `bankers_round()` with one of them!
 
 ## Answer
 

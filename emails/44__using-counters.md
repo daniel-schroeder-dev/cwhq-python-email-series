@@ -1,6 +1,6 @@
 ## Question
 
-A young Pythonista is working on a program that counts the number of occurrences of every letter in the alphabet in a given sentence. This is their implementation so far:
+A young Python programmer is working on a program that counts the number of occurrences of every letter in the alphabet in a given sentence. This is their implementation so far:
 
 ```python
 from string import ascii_lowercase
@@ -35,7 +35,7 @@ w 1
 y 1
 ```
 
-They are pleased that their algorithm works correctly! A more experienced Pythonista sees their work and praises the implementation, but points out that there's an easier way to solve this problem in Python. Investigate the [collections](https://docs.python.org/3/library/collections.html) module and see if you can find a way to refactor the `count_num_letters()` function to use built-in Python functions/classes to perform this task. 
+They are pleased that their algorithm works correctly! A more experienced Python programmer sees their work and praises the implementation, but points out that there's an easier way to solve this problem in Python. Investigate the [collections](https://docs.python.org/3/library/collections.html) module and see if you can find a way to refactor the `count_num_letters()` function to use built-in Python functions/classes to perform this task. 
 
 ## Answer
 

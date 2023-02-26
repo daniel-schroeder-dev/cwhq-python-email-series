@@ -1,6 +1,6 @@
 ## Question
 
-A young Pythonista is working on an app that will randomly shuffle the letters of a word and have the user guess the word. They're writing their own shuffling algorithm and have got a working version, which you can see below:
+A young Python programmer is working on an app that will randomly shuffle the letters of a word and have the user guess the word. They're writing their own shuffling algorithm and have got a working version, which you can see below:
 
 ```python
 from random import randint
@@ -21,7 +21,7 @@ print(shuffle_letters("banana"))  # aabnan
 print(shuffle_letters("pizza"))  # zapiz
 ```
 
-Their program works, and they show it to a more experienced Pythonista. While impressed with their algorithm, the elder Pythonista suggests that there's an easier way to shuffle the letters in the word provided by the [random](https://docs.python.org/3/library/random.html) module. Investigate the functions provided by this module and see if you can help them refactor their program! 
+Their program works, and they show it to a more experienced Python programmer. While impressed with their algorithm, the elder Python programmer suggests that there's an easier way to shuffle the letters in the word provided by the [random](https://docs.python.org/3/library/random.html) module. Investigate the functions provided by this module and see if you can help them refactor their program! 
 
 ## Answer
 
