@@ -1,6 +1,6 @@
 ## Question
 
-A Pythonista is working on a calculator program. They want users to be able to add 2, 3, or 4 numbers together at once. They've created three functions to perform this task:
+A Python programmer is working on a calculator program. They want users to be able to add 2, 3, or 4 numbers together at once. They've created three functions to perform this task:
 
 ```python
 def add2(num1, num2):

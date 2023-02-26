@@ -1,6 +1,6 @@
 ## Question
 
-A Pythonista is working for a popular credit card company and is tasked with taking a list of tuples holding parts of cardholder's names (first, middle, last) and turning it into a list of strings containing the full name.
+A Python programmer is working for a popular credit card company and is tasked with taking a list of tuples holding parts of cardholder's names (first, middle, last) and turning it into a list of strings containing the full name.
 
 So, they want to transform this:
 

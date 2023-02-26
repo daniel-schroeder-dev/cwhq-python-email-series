@@ -1,6 +1,6 @@
 ## Question
 
-A young Pythonista is working on a program to combine a list of first names and last names into a single list. This is what they have so far:
+A young Python programmer is working on a program to combine a list of first names and last names into a single list. This is what they have so far:
 
 ```python
 first_names = ["Daniel", "Jess", "Bob"]
@@ -15,7 +15,7 @@ for index, first_name in enumerate(first_names):
 print(full_names) # [('Daniel', 'Smith'), ('Jess', 'Fury'), ('Bob', 'Worth')]
 ```
 
-They are pretty happy with the fact that they used `enumerate()`, but an experienced Pythonista tells them there's an even better way to do this using a built-in function called `zip()`. Research this function and see if you can find a simpler way to perform this loop!
+They are pretty happy with the fact that they used `enumerate()`, but an experienced Python programmer tells them there's an even better way to do this using a built-in function called `zip()`. Research this function and see if you can find a simpler way to perform this loop!
 
 ## Answer
 

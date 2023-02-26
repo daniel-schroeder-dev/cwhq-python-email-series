@@ -1,6 +1,6 @@
 ## Question
 
-A young Pythonista is working on a program for a local business to pull the unique customer names from a large order history file. There are millions of records in the file, but the programmer is working with a small subset of records (as a list) to get the algorithm for finding unique customer names correct. This is what they have so far:
+A young Python programmer is working on a program for a local business to pull the unique customer names from a large order history file. There are millions of records in the file, but the programmer is working with a small subset of records (as a list) to get the algorithm for finding unique customer names correct. This is what they have so far:
 
 ```python
 def get_unique_customers(customers):
@@ -18,7 +18,7 @@ unique_customers = get_unique_customers(customers)
 print(unique_customers)  # ['Bob Smith', 'Janice Carencrow', 'Jasper Rothchild']
 ```
 
-They are happy with their `get_unique_customers()` function as it works correctly. Before they can move on to completing their program, an experienced Pythonista looks over their work and chuckles: "You could use sets to remove the `get_unique_customers()` function entirely!" Investigate how sets work in Python and see if you can refactor this program to use them!
+They are happy with their `get_unique_customers()` function as it works correctly. Before they can move on to completing their program, an experienced Python programmer looks over their work and chuckles: "You could use sets to remove the `get_unique_customers()` function entirely!" Investigate how sets work in Python and see if you can refactor this program to use them!
 
 ## Answer
 
