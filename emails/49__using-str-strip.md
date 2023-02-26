@@ -1,6 +1,6 @@
 ## Question
 
-A young Pythonista is working on a program where user's can register with a username and password. To make sure the username/password don't have spaces at the beginning or end, they've written this `remove_spaces()` function:
+A young Python programmer is working on a program where user's can register with a username and password. To make sure the username/password don't have spaces at the beginning or end, they've written this `remove_spaces()` function:
 
 ```python
 def remove_spaces(word):
@@ -27,7 +27,7 @@ print(username)  # steve9000
 print(len(username))  # 9
 ```
 
-They test the function and it seems to work fine. A more experienced Pythonista sees their implementation and praises their algorithm and skills, but points out that they could remove this function entirely by using one of the [built-in `str` methods](https://docs.python.org/3/library/stdtypes.html#string-methods). Investigate the built-in `str` methods and see if you can find a way to replace the `remove_spaces()` function. 
+They test the function and it seems to work fine. A more experienced Python programmer sees their implementation and praises their algorithm and skills, but points out that they could remove this function entirely by using one of the [built-in `str` methods](https://docs.python.org/3/library/stdtypes.html#string-methods). Investigate the built-in `str` methods and see if you can find a way to replace the `remove_spaces()` function. 
 
 ## Answer
 

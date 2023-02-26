@@ -1,6 +1,6 @@
 ## Question
 
-A young Pythonista is writing a program to help them track their best and worst times for running a mile (in minutes). To accomplish this task, they've created functions to find the best and worst running times from a list of running times:
+A young Python programmer is writing a program to help them track their best and worst times for running a mile (in minutes). To accomplish this task, they've created functions to find the best and worst running times from a list of running times:
 
 ```python
 def find_best_running_time(running_times):
@@ -32,7 +32,7 @@ print(f"My best running time is {best_running_time} minutes.")  # My best runnin
 print(f"My worst running time is {worst_running_time} minutes.")  # My worst running time is 11.2 minutes.
 ```
 
-An experienced Pythonista sees their work and comments: "You could accomplish both tasks with two built-in functions!". Research Python's built-in functions and see if you can find the two that could replace the `find_best_running_time()` and `find_worst_running_time` functions.
+An experienced Python programmer sees their work and comments: "You could accomplish both tasks with two built-in functions!". Research Python's built-in functions and see if you can find the two that could replace the `find_best_running_time()` and `find_worst_running_time` functions.
 
 
 ## Answer

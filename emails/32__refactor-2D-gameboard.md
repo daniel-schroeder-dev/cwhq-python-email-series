@@ -1,6 +1,6 @@
 ## Question
 
-A young Pythonista is learning about 2D lists, and recently created this portion of a program that'll have a 2D gameboard:
+A young Python programmer is learning about 2D lists, and recently created this portion of a program that'll have a 2D gameboard:
 
 ```python
 def display_gameboard():

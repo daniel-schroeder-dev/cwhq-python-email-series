@@ -11,7 +11,7 @@ zip_save_location = input("Where do you want the ZIP file to be saved? ")
 # Run the rest of the ZIP/save logic
 ```
 
-An experienced Pythonista notices that their is another way to get the users `zip_folder` and `zip_save_location` without having to prompt them while the program is running. Research how to get command-line arguments using the `sys` module and see if you can refactor the logic that gets the ZIP/save location.
+An experienced Python programmer notices that their is another way to get the users `zip_folder` and `zip_save_location` without having to prompt them while the program is running. Research how to get command-line arguments using the `sys` module and see if you can refactor the logic that gets the ZIP/save location.
 
 ## Answer
 

@@ -1,6 +1,6 @@
 ## Question
 
-A young Pythonista is working on a program to count the number of vowels in a sentence. They are using a dictionary to count the number of occurrences of each vowel, and they need the dictionary to start with mappings from each vowel to the number 0 like this:
+A young Python programmer is working on a program to count the number of vowels in a sentence. They are using a dictionary to count the number of occurrences of each vowel, and they need the dictionary to start with mappings from each vowel to the number 0 like this:
 
 ```python
 vowel_counter = {
@@ -12,7 +12,7 @@ vowel_counter = {
 }
 ```
 
-While their implementation of `vowel_counter` is fine, a more experienced Pythonista sees their work and tells them there's an easier way to accomplish this using one of the built-in [dictionary methods](https://docs.python.org/3/library/stdtypes.html#dict). The fact that `list()` will turn a `str` into a `list` will also come in handy for a cleaner implementation. Research the built-in dictionary methods and see if you can refactor this program to create the `vowel_counter` in a single line. 
+While their implementation of `vowel_counter` is fine, a more experienced Python programmer sees their work and tells them there's an easier way to accomplish this using one of the built-in [dictionary methods](https://docs.python.org/3/library/stdtypes.html#dict). The fact that `list()` will turn a `str` into a `list` will also come in handy for a cleaner implementation. Research the built-in dictionary methods and see if you can refactor this program to create the `vowel_counter` in a single line. 
 
 ## Answer
 
